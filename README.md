@@ -9,7 +9,7 @@ Ali is a JavaScript developer , with a passion for learning new concept in Web D
 * 🌍  I'm based in Abidjan
 * ✉️  You can contact me at [alsondab9@gmail.com](mailto:alsondab9@gmail.com)
 * 🧠  I'm learning JavaScript language
-* ⚡  I can eat 100 crepes With banana flavor while reading Think and Grow rich of Napoleon Hill.
+* ⚡ I like Basketball and Gym
 
 ### Skills
 
