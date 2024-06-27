@@ -22,3 +22,8 @@ Ali is a JavaScript developer , with a passion for learning new concept in Web D
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/alsondab" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### project participatio
+project participation link :
+ 1. https://github.com/MisterPy15/GESTION_DES_ENSEIGNANT_VACATAIRES.git
+ 2. https://github.com/soro199/GESTION_DE_NOTES_UTA
