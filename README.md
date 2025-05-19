@@ -28,6 +28,9 @@ Ali is a JavaScript developer, with a passion for learning new concept in Web De
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
 ### Socials
@@ -47,9 +50,10 @@ Ali is a JavaScript developer, with a passion for learning new concept in Web De
 
 ### Participation
 
-Project participation links:  
+Project participation links:
+
 1. https://github.com/MisterPy15/GESTION_DES_ENSEIGNANT_VACATAIRES.git  
 2. https://github.com/soro199/GESTION_DE_NOTES_UTA  
 3. https://github.com/AgohChris/OldTopic.git  
 4. https://github.com/alsondab/Bibliot_G6.git  
-5. https://github.com/alsondab/RafistoleurCi.git  
+5. https://github.com/alsondab/RafistoleurCi.git
