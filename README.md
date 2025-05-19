@@ -7,7 +7,7 @@ full Stack Js Developer.
 Ali is a JavaScript developer , with a passion for learning new concept in Web Dev. He is still a student in software engineer . In his spare time, he workouts , plays basketball, spends time with his Pc.
 
 * 🌍  I'm based in Abidjan
-* ✉️  You can contact me at [alsondab9@gmail.com](mailto:alsondab9@gmail.com)
+* ✉️  You can contact me at [contact@alidabo.site](mailto:contact@alidabo.site)
 * 🧠  I'm learning JavaScript language
 * ⚡ I like Basketball and Gym
 
@@ -27,3 +27,8 @@ Ali is a JavaScript developer , with a passion for learning new concept in Web D
 project participation link :
  1. https://github.com/MisterPy15/GESTION_DES_ENSEIGNANT_VACATAIRES.git
  2. https://github.com/soro199/GESTION_DE_NOTES_UTA
+ 3. https://github.com/AgohChris/OldTopic.git
+ 4. https://github.com/alsondab/Bibliot_G6.git
+ 5. https://github.com/alsondab/RafistoleurCi.git
+
+
