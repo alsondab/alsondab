@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ali Dabo
 ================================================================================================================================
 
-full Stack Js Developer.
+Web Developer.
 ------------------------
 
 Ali is a JavaScript developer, with a passion for learning new concept in Web Dev. He is still a student in software engineer. In his spare time, he workouts, plays basketball, spends time with his Pc.
